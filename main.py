@@ -10,3 +10,5 @@ def foo(x: int) -> None:
 pprint.pprint('hello')
 
 print(4)
+
+print("I'm a new line")
